@@ -21,7 +21,7 @@ List any prerequisites that users need to have installed or set up before using 
     git clone https://github.com/adee26/plane-tickets-system
     ```
 
-2. Run app in IntelliJ or cmd
+2. Run app in IntelliJ or cmd 
 
 ### Project Architecture
 
