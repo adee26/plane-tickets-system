@@ -23,3 +23,7 @@ List any prerequisites that users need to have installed or set up before using 
 
 2. Run app in IntelliJ or cmd
 
+### Project Architecture
+
+![img.png](img.png)
+
